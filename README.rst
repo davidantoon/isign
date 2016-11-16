@@ -45,7 +45,7 @@ run the install script:
 
 .. code::
 
-  $ git clone https://github.com/saucelabs/isign.git
+  $ git clone https://github.com/davidantoon/isign.git
   $ cd isign
   $ sudo ./INSTALL.sh
 
